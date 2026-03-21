@@ -1,16 +1,18 @@
-## Hi there 👋
+# Elizabet Sanyal
 
-<!--
-**sanyalelizabet/sanyalelizabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Treasury and quantitative finance professional focused on derivatives, fixed income, volatility modeling, and portfolio analytics.
 
-Here are some ideas to get you started:
+## Areas of interest
+- Yield-curve modeling
+- Options and implied volatility
+- Portfolio analytics
+- Treasury and market research
+- Python and R for financial applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **ArbitrageFreeVolSurface** – implied volatility surface modeling
+- **YieldCurveModeling** – yield-curve and term-structure analysis
+- **Deep_Portfolio** – portfolio management with machine learning and regime switching
+
+## Tools
+Python | R | pandas | quantitative research | financial modeling
