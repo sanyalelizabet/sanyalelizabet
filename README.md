@@ -12,3 +12,9 @@ Treasury and quantitative finance professional focused on derivatives, fixed inc
 
 ## Tools
 Python | R | pandas | quantitative research | financial modeling
+
+
+## Featured projects
+- **ArbitrageFreeVolSurface** – implied volatility surface modeling
+- **YieldCurveModeling** – yield-curve and term-structure analysis
+- **Deep_Portfolio** – portfolio management with machine learning 
