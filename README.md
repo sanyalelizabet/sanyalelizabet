@@ -12,7 +12,7 @@ Treasury and quantitative finance professional focused on derivatives, fixed inc
 
 
 ## Tools
-Python | R | pandas | quantitative research | financial modeling
+Python | R  | quantitative research | ML
 
 
 ## Featured projects
