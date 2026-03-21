@@ -6,7 +6,7 @@ Treasury and quantitative finance professional focused on derivatives, fixed inc
 - Yield-curve modeling
 - Options and implied volatility
 - Portfolio analytics
-- Treasury and market research
+- Interest rates and money market 
 - Python and R for financial applications
 
 
