@@ -4,12 +4,10 @@ Treasury and quantitative finance professional focused on derivatives, fixed inc
 
 ## Areas of interest
 
-
 - Portfolio analytics
-- Interest rates and money market
+- Rates and treasury analytics
 - Options and implied volatility
 - Python and R for financial applications
-
 
 ## Tools
 Python | R  | quantitative research | ML
