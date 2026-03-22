@@ -14,6 +14,6 @@ Python · R · Quantitative research · ML
 
 
 ### Featured projects
-- **ArbitrageFreeVolSurface** – implied volatility surface modeling
+- **ArbitrageFreeVolSurface** – volatility surface analysis and arbitrage diagnostics
 - **Yield-Curve-Model** – yield-curve and term-structure analysis
 - **Deep_Portfolio** – portfolio management with machine learning 
